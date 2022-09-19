@@ -28,13 +28,13 @@ Steps:
 The screen should show some results like:
 
 > ########## RESULT ##########
-
+> 
 > By applying one of the following repairs, the goal can be proved by z3:
-
+> 
 > [replace(1.44,-67/625000000)]
-
+> 
 > [replace(6.7e-11,-45000000000000009/50000000000000000000)]
-
+> 
 > [replace(1.0,-72000000000000000000000/5359999999999999)]
 
 
