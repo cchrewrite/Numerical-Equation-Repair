@@ -3,7 +3,9 @@
 The code is the implementation of the equation repair approach proposed by the paper:
 
 Cheng-Hao Cai and Alan Bundy.
+
 Repairing Numerical Equations in Analogically Blended Theories Using Reformation.
+
 HLC2022: The 3rd International Workshop on Human-Like Computing, September 28-20, 2022, Windsor Great Park, UK.
 
 To run the code, you will need:
